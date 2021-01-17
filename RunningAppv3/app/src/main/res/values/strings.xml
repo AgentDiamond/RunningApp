@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RunningApp</string>
+    <string name="setGoal">Set your goal!</string>
+    <string name="DistanceRadio">Distance</string>
+    <string name="TimeRadio">Time</string>
+    <string name="SpeedRadio">Speed</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_past_runs">Past Runs</string>
+    <string name="location_permission_denied">Location permission denied</string>
+    <string name="permission_required_toast">Location permission required</string>
+    <string name="permission_rationale_location">This app requires location permission to work properly. Please enable location permission.</string>
+    <string name="runButton">Run!</string>
+    <string name="time">"Time: "</string>
+    <string name="distance">"Distance: "</string>
+    <string name="speed">"Minutes/KM: "</string>
+    <string name="run_not_saved">Run not saved!</string>
+    <string name="pastRunsButton">Past Runs</string>
+    <string name="google_maps_key">AIzaSyCk9b6InjpJd316oFCM9cdTtYDHJa2ALq0</string>
+</resources>
