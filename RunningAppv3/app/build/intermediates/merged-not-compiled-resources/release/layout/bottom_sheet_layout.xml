@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layoutDirection="rtl">
+
+        <RadioButton
+            android:id="@+id/radioButtonDistance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/DistanceRadio" />
+
+        <RadioButton
+            android:id="@+id/radioButtonTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/TimeRadio" />
+
+        <RadioButton
+            android:id="@+id/radioButtonSpeed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/SpeedRadio" />
+    </RadioGroup>
+</LinearLayout>

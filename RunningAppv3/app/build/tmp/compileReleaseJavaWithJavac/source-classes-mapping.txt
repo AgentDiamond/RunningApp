@@ -1,0 +1,36 @@
+com/example/runningappv3/MapsActivityCurrentPlace.java
+ com.example.runningappv3.MapsActivityCurrentPlace
+ com.example.runningappv3.MapsActivityCurrentPlace$1
+ com.example.runningappv3.MapsActivityCurrentPlace$2
+com/example/runningappv3/ExampleBottomSheetDialog.java
+ com.example.runningappv3.ExampleBottomSheetDialog
+ com.example.runningappv3.ExampleBottomSheetDialog$1
+ com.example.runningappv3.ExampleBottomSheetDialog$BottomSheetListener
+com/example/runningappv3/RunDao.java
+ com.example.runningappv3.RunDao
+com/example/runningappv3/MainActivity.java
+ com.example.runningappv3.MainActivity
+ com.example.runningappv3.MainActivity$1
+ com.example.runningappv3.MainActivity$2
+ com.example.runningappv3.MainActivity$3
+com/example/runningappv3/Run.java
+ com.example.runningappv3.Run
+ com.example.runningappv3.Run$1
+com/example/runningappv3/PastRunsAdapter.java
+ com.example.runningappv3.PastRunsAdapter
+ com.example.runningappv3.PastRunsAdapter$1
+ com.example.runningappv3.PastRunsAdapter$PastRunsHolder
+com/example/runningappv3/BuildConfig.java
+ com.example.runningappv3.BuildConfig
+com/example/runningappv3/MyRepository.java
+ com.example.runningappv3.MyRepository
+ com.example.runningappv3.MyRepository$insertAsyncTask
+com/example/runningappv3/MyRoomDatabase.java
+ com.example.runningappv3.MyRoomDatabase
+ com.example.runningappv3.MyRoomDatabase$1
+ com.example.runningappv3.MyRoomDatabase$PopulateDbAsync
+com/example/runningappv3/RunViewModel.java
+ com.example.runningappv3.RunViewModel
+com/example/runningappv3/PastRuns.java
+ com.example.runningappv3.PastRuns
+ com.example.runningappv3.PastRuns$1
